@@ -1,0 +1,32 @@
+Software Engineer - NLP & AI
+Company: OpenAI Innovations Inc.
+
+Description:
+We are looking for a **Software Engineer** with expertise in **Natural Language Processing (NLP)** and **Machine Learning (ML)** to develop and optimize AI-driven applications.
+
+Responsibilities:
+- Design, develop, and optimize **AI models** for text processing.
+- Work with **transformers, LLMs, and deep learning architectures**.
+- Build and maintain scalable **APIs and data pipelines**.
+- Collaborate with cross-functional teams on AI integration.
+
+Requirements:
+- Strong experience with **Python** and frameworks like **TensorFlow / PyTorch**.
+- Proficiency in **NLP libraries (Hugging Face Transformers, spaCy, NLTK)**.
+- Knowledge of **FastAPI, Flask, or Django** for backend development.
+- Experience with **cloud platforms (AWS, GCP, Azure)**.
+- 3+ years of relevant experience in AI development.
+
+Preferred Qualifications:
+- Experience working with **large-scale datasets**.
+- Knowledge of **MLOps and model deployment**.
+- Contributions to open-source NLP projects.
+
+Compensation:
+- Competitive salary with stock options.
+- Health, dental, and vision benefits.
+- Remote-friendly work environment.
+
+How to Apply:
+Send your resume and cover letter to **careers@openai-innovations.com** with the subject line: "Application - Software Engineer (AI & NLP)"
+
